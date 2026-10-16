@@ -1,0 +1,1 @@
+import{M as e,P as t,S as n,b as r,o as i}from"../chunks/B6QITx2S.js";import"../chunks/2NbeeuGD.js";var a=n(`<main class="reading" id="main"><h1>Page not found</h1><p>This page isn't here. <a class="text-link" href="/">Go back home →</a></p></main>`);function o(n){var o=a();i(`1j96wlh`,n=>{e(()=>{t.title=`Page not found · Danny Perojevic`})}),r(n,o)}export{o as component};
